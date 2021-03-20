@@ -7,7 +7,7 @@
 4=> enable CORS
 
 Angular
-1=> On cmd excute "ng new projectName"
+1=> On cmd execute "ng new projectName"
 2=> for running the project from cli "ng serve --o"
 3=> Create a app-structure.txt for see the skeleton of the UI
 4=> Add components by "ng g c ComponetnName -s --skip-tests"
@@ -15,3 +15,9 @@ Angular
 5=> Add services by "ng g s shared/serviceName --skip-tests"
 6=> Add Model by "ng g class shared/modelName --type=model --skip-tests"
 7=> For Form validation properties go to "https://angular.io/api/forms/FormControl"
+8=> add toaster for notificaiton alert by "npm i ngx-toaster@13.1.0" ( https://www.npmjs.com/package/ngx-toastr )
+	-> add in app.module.ts
+		->import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+		  import { ToastrModule } from 'ngx-toastr';
+		->in @NgModule
+			->ToastrModule.forRoot()
