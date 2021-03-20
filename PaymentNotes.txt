@@ -4,3 +4,9 @@
 	-Microsoft.EntityFrameworkCore
 	-Microsoft.EntityFrameworkCore.SqlServer
 	-Microsoft.EntityFrameworkCore.Tools
+
+
+Angular
+1=> On cmd excute "ng new projectName"
+2=> Create a app-structure.txt for see the skeleton of the UI
+3=> Add component by "ng g c ComponetnName -s --skip-tests"
