@@ -1,8 +1,8 @@
 <form>
   <input
     type="hidden"
-    name="paymentDetailId"
-    [value]="service.formData.paymentDetailId"
+    name="paymentDetailsId"
+    [value]="service.formData.paymentDetailsId"
   />
 
   <div class="form-group">
@@ -12,8 +12,7 @@
       placeholder="Full Name"
       name="cardOwnerName"
       #cardOwnerName="ngModel"
-      [(ngModel)="service.formData.cardOwnerName"
-      ]
+      [(ngModel)]="service.formData.cardOwnerName"
     />
   </div>
   <div class="form-group">
@@ -23,8 +22,7 @@
       placeholder="16 Digit Card Number"
       name="cardNumber"
       #cardNumber="ngModel"
-      [(ngModel)="service.formData.cardNumber"
-      ]
+      [(ngModel)]="service.formData.cardNumber"
     />
   </div>
   <div class="form-group">
@@ -35,8 +33,7 @@
       placeholder="Security Code"
       name="securityCode"
       #securityCode="ngModel"
-      [(ngModel)="service.formData.securityCode"
-      ]
+      [(ngModel)]="service.formData.securityCode"
     />
   </div>
   <div class="form-group">
@@ -46,8 +43,7 @@
       placeholder="MM/YY"
       name="expirationDate"
       #expirationDate="ngModel"
-      [(ngModel)="service.formData.expirationDate"
-      ]
+      [(ngModel)]="service.formData.expirationDate"
     />
   </div>
 </form>
