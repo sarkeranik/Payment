@@ -1,0 +1,6 @@
+1=> Create asp.net project 
+2=> Setup  DB ConnectionStrings 
+3=> Add Nuget Packages (Match Version with .Net version)->
+	-Microsoft.EntityFrameworkCore
+	-Microsoft.EntityFrameworkCore.SqlServer
+	-Microsoft.EntityFrameworkCore.Tools
