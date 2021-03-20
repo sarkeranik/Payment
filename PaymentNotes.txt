@@ -19,5 +19,6 @@ Angular
 	-> add in app.module.ts
 		->import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 		  import { ToastrModule } from 'ngx-toastr';
-		->in @NgModule
+		->in @NgModule->imports add
 			->ToastrModule.forRoot()
+	-> if any error occurred like no toastr library found delete "node-module" folder and run "npm cache clean --force" -> "npm install"

@@ -14,9 +14,14 @@ import { HttpClientModule } from '@angular/common/http';
     AppComponent,
     PaymentDetailsComponent,
     PaymentDetailFormComponent,
+  ],
+  imports: [
+    BrowserModule,
+    FormsModule,
+    HttpClientModule,
+    BrowserAnimationsModule,
     ToastrModule.forRoot(),
   ],
-  imports: [BrowserModule, FormsModule, HttpClientModule],
   providers: [],
   bootstrap: [AppComponent],
 })
