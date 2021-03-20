@@ -4,7 +4,7 @@
 	-Microsoft.EntityFrameworkCore
 	-Microsoft.EntityFrameworkCore.SqlServer
 	-Microsoft.EntityFrameworkCore.Tools
-
+4=> enable CORS
 
 Angular
 1=> On cmd excute "ng new projectName"
