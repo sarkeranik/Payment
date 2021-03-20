@@ -9,4 +9,7 @@
 Angular
 1=> On cmd excute "ng new projectName"
 2=> Create a app-structure.txt for see the skeleton of the UI
-3=> Add component by "ng g c ComponetnName -s --skip-tests"
+3=> Add components by "ng g c ComponetnName -s --skip-tests"
+    -For child components by "ng g c ComponetnName/child-component-name -s --skip-tests"
+4=> Add services by "ng g s shared/serviceName --skip-tests"
+5=> Add Model by "ng g class shared/modelName --type=model --skip-tests"
