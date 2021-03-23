@@ -5,9 +5,9 @@ Points discussed :
 
 Introduction
 
-Created Asp.Net Core Web API
-Defined EF Model & DB Context Class
-DB Migration
+Created Asp.Net Core Web API,
+Defined EF Model & DB Context Class,
+DB Migration, </br>
 Created API Controller with CRUD Web Methods
 Tested CRUD Operations in ASP.NET Core
 Created Angular Project
