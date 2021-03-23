@@ -4,21 +4,20 @@ With this project we've implemented Asp.Net Core Web API CRUD Operations with An
 Points discussed :
 
 Introduction
-Why .Net 5 not .Net Core 4.0
-Create Asp.Net Core Web API
-Define EF Model & DB Context Class
+
+Created Asp.Net Core Web API
+Defined EF Model & DB Context Class
 DB Migration
-Create API Controller with CRUD Web Methods
-How Dependency Injection works in ASP.NET Core?
-Test CRUD Operations in ASP.NET Core
-Create Angular Project
-Structure of the App
+Created API Controller with CRUD Web Methods
+Tested CRUD Operations in ASP.NET Core
+Created Angular Project
+Structured of the App
 Form Design in Angular
 Form Validation
 Form Submit in Angular
-Enable CORS in ASP.NET Core Web API
+Enabled CORS in ASP.NET Core Web API
 Form Reset Operation
-Show notification in Angular
+Showed notification in Angular
 Retrieve & Display records from Web API with Angular
 Update Operation
 Delete Operation
