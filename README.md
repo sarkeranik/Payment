@@ -5,19 +5,19 @@ Points discussed :
 
 Introduction
 
-Created Asp.Net Core Web API,
-Defined EF Model & DB Context Class,
-DB Migration, </br>
-Created API Controller with CRUD Web Methods
-Tested CRUD Operations in ASP.NET Core
-Created Angular Project
-Structured of the App
-Form Design in Angular
-Form Validation
-Form Submit in Angular
-Enabled CORS in ASP.NET Core Web API
-Form Reset Operation
-Showed notification in Angular
-Retrieve & Display records from Web API with Angular
-Update Operation
-Delete Operation
+Created Asp.Net Core Web API </br>
+Defined EF Model & DB Context Class  </br>
+DB Migration </br>
+Created API Controller with CRUD Web Methods  </br>
+Tested CRUD Operations in ASP.NET Core </br>
+Created Angular Project </br>
+Structured of the App </br>
+Form Design in Angular </br>
+Form Validation </br>
+Form Submit in Angular </br>
+Enabled CORS in ASP.NET Core Web API </br>
+Form Reset Operation </br>
+Showed notification in Angular </br>
+Retrieve & Display records from Web API with Angular </br>
+Update Operation </br>
+Delete Operation 
