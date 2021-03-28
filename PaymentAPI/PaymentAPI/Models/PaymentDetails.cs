@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace PaymentAPI.Models
@@ -10,6 +11,7 @@ namespace PaymentAPI.Models
     public class PaymentDetails
     {
         [Key]
+        [JsonPropertyName("PaymentDetailsId")]
         public int Id { get; set; }
 
         [Column(TypeName = "nvarchar(100)")]
