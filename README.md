@@ -18,11 +18,11 @@ Form Reset Operation </br>
 Showed notification in Angular </br>
 Retrieve & Display records from Web API with Angular </br>
 Update Operation </br>
-Delete Operation 
+Delete Operation </br>
 
-Here is a sanpshot of the project,
-1.The Frontend(Angular 11)
-![Payment APP](https://user-images.githubusercontent.com/65606710/112744233-08db1380-8fc0-11eb-865c-09045e1eb116.gif)
-2.The backend(asp.net core 3.1)
+Here is a sanpshot of the project, </br>
+1.The Frontend(Angular 11) </br>
+![Payment APP](https://user-images.githubusercontent.com/65606710/112744233-08db1380-8fc0-11eb-865c-09045e1eb116.gif) </br>
+2.The backend(asp.net core 3.1) </br>
 ![Payment API Optimized](https://user-images.githubusercontent.com/65606710/112746371-1d270c80-8fd0-11eb-8ce0-40be1e1d9337.gif)
 
