@@ -11,7 +11,7 @@ namespace PaymentAPI.Models
     public class PaymentDetails
     {
         [Key]
-        [JsonPropertyName("PaymentDetailsId")]
+        [JsonPropertyName("paymentDetailsId")]
         public int Id { get; set; }
 
         [Column(TypeName = "nvarchar(100)")]
