@@ -14,11 +14,9 @@ export class PaymentDetailsService {
   readonly baseUrl = 'http://localhost:56705/api/PaymentDetail';
 
   postPaymentDetail() {
-    var test = this.formData.paymentDetailsId;
     return this.http.post(this.baseUrl, this.formData);
   }
   putPaymentDetail() {
-    var test = this.formData.paymentDetailsId;
     return this.http.put(
       `${this.baseUrl}/${this.formData.paymentDetailsId}`,
       this.formData
