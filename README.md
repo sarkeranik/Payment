@@ -1,4 +1,4 @@
-# PaymentAsp.Net Core 5.0 Web API CRUD with Angular 11
+# Card adding in Payment process with Asp.Net Core 5.0 Web API with Angular 11
 With this project I've implemented Asp.Net Core Web API CRUD Operations with Angular 11.
 
 <strong>Features implemented :</strong>
@@ -24,6 +24,6 @@ Delete Operation </br>
 
 1.The Frontend(<b>Angular 11</b>) </br> </br> 
 ![Payment APP](https://user-images.githubusercontent.com/65606710/112744233-08db1380-8fc0-11eb-865c-09045e1eb116.gif) </br> </br>
-2.The backend(<b>ASP.NET core 3.1 (Swagger UI)</b>) </br> </br> 
+2.The backend(<b>ASP.NET core 5.0 (Swagger UI)</b>) </br> </br> 
 ![Payment API Optimized](https://user-images.githubusercontent.com/65606710/112746371-1d270c80-8fd0-11eb-8ce0-40be1e1d9337.gif)
 
